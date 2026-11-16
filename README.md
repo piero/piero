@@ -10,7 +10,7 @@ I'm curious by nature, and that's shaped my career: I've moved from real-time st
 
 - **Before:** real-time IoT decision pipelines for UK social care (Lilli), 4M+ docs/day NLP pipelines (Signal AI), Prime Video on PlayStation 3 and Fire TV (Amazon)
 
-- **Fun fact:** DTNPerf, the tool from my university thesis, is used at NASA JPL and on the International Space Station 🌍 ))) · · · · · · ((( 🛰️
+- **Fun fact:** DTNPerf, the tool from my university thesis, is used at NASA JPL and on the ISS 🌍 ))) · · · · · · ((( 🛰️
 
 - Currently based in Italy, working remotely since 2021
 
