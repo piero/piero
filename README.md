@@ -33,7 +33,7 @@ LLM & multi-agent AI                                           ███ Nuraxi.
 
 ### Side projects
 
-Things I build in my spare time, mostly for fun and mostly with an AI pair programmer.
+Some things I build in my spare time, mostly for fun or to scratch itches.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -42,7 +42,13 @@ Things I build in my spare time, mostly for fun and mostly with an AI pair progr
 | [**tile-hero**](https://github.com/piero/tile-hero) | Design tile patterns and work out how many tiles to buy | TypeScript |
 | [**ypz5-manager**](https://github.com/piero/ypz5-manager) | Terminal file manager for FAT32 devices, made for my old Samsung YP-Z5A MP3 player | Go |
 | [**ascii-hypercube**](https://github.com/piero/ascii-hypercube) | A rotating ASCII-art hypercube to use as a screensaver | Python |
+| [**LetMeSleep**](https://github.com/piero/LetMeSleep) | A radio jammer for Raspberry Pi | Python |
 | [**noself-minimal-dark**](https://github.com/piero/noself-minimal-dark) | Minimal dark theme for Hugo | HTML/CSS |
+| [**microbit-playground**](https://github.com/piero/microbit-playground) | Playing with the awesome BBC micro:bit v2 | Python |
+| [**IPUpdater**](https://github.com/piero/IpUpdater) | IP updater for FreeDNS (or similar services) | Python |
+| [**WebDiff**](https://github.com/piero/WebDiff) | A web diff notifier for web pages | Python |
+| [**DesignPatterms**](https://github.com/piero/DesignPatterns) | Demos of some GoF design patterns | C++ |
+
 
 ---
 
