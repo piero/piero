@@ -1,4 +1,4 @@
-### Hi, I'm Piero
+### Hi, I'm Piero 🖖
 
 **Staff/Lead Software Engineer** building backend platforms, real-time data pipelines and multi-agent AI systems.
 
